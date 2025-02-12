@@ -22,7 +22,7 @@ public class UserDefinedException {
 				System.out.println("Elgible to vote");
 			}
 			else {
-				try {
+				try { 
 				throw new InvalidAgeException(age);
 			}
 				catch(InvalidAgeException e) {
