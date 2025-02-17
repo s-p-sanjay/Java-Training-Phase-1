@@ -1,4 +1,4 @@
-package com.celcom.pack1;
+package com.celcom.PackageExample.src.com.celcom.pack1;
 
 public class MyClass1 extends MyAbstractClass {
 

@@ -1,5 +1,5 @@
 package com.celcom.day1;
-
+// calculator
 import java.util.Scanner;
 
 public class CalculatorApplication {

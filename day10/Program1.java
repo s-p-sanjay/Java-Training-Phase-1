@@ -1,5 +1,5 @@
 package com.celcom.day10;
-
+// converting arraylist to linkedlist
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

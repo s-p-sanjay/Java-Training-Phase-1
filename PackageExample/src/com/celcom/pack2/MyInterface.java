@@ -1,4 +1,4 @@
-package com.celcom.pack2;
+package com.celcom.PackageExample.src.com.celcom.pack2;
 
 public interface MyInterface {
 	

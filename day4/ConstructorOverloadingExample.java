@@ -1,5 +1,5 @@
 package com.celcom.day4;
-
+// constructor overloading
 public class ConstructorOverloadingExample {
 	ConstructorOverloadingExample(int a, int b) {
 		this(2.0, 5.5);

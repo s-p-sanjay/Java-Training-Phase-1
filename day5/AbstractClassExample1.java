@@ -1,5 +1,5 @@
 package com.celcom.day5;
-
+// abstract class
 interface VehiclePlan1 {
 	void noOfEngine();
 }

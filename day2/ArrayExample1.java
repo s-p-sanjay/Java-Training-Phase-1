@@ -1,5 +1,5 @@
 package com.celcom.day2;
-
+// array example 1
 public class ArrayExample1 {
 
 	public static void main(String[] args) {

@@ -1,7 +1,7 @@
-package com.celcom.main;
+package com.celcom.PackageExample.src.com.celcom.main;
 
-import com.celcom.pack1.MyClass1;
-import com.celcom.pack2.MyClass2;
+import com.celcom.PackageExample.src.com.celcom.pack1.MyClass1;
+import com.celcom.PackageExample.src.com.celcom.pack2.MyClass2;
 import static java.lang.System.out;
 
 public class MainClass {

@@ -1,6 +1,6 @@
 package com.celcom.saturday_assignment_15_feb_2025;
-
 //Write a Java program to search for an element in an array list.
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

@@ -1,5 +1,6 @@
 package com.celcom.day7;
 
+//deadlock
 class Resource {
 	private String data;
 
